@@ -1,5 +1,5 @@
 
-describe('My Second Test', () => {
+describe('Running All tests in one test-case', () => {
   it('clicking "type" navigates to a new url', () => {
     const baseUrl = Cypress.config('baseUrl');
     // cy.visit('/market-insights') 

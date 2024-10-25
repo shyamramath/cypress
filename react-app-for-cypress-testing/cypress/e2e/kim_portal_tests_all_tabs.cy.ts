@@ -1,5 +1,5 @@
 
-describe('My Second Test', () => {
+describe('Kim Portal Validating all tabs', () => {
     it('clicking "type" navigates to a new url', () => {
       const baseUrl = Cypress.config('baseUrl');
       // cy.visit('https://www.kestraim.com/')
